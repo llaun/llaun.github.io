@@ -53,7 +53,7 @@ const PICTURE_SRC_LIST = [
         path: './img/picmyb.jpeg',
         title: 'Birthday',
         subtitle:
-            '3 years ago, myb it was the first time i celebrate my birthday with my home....',
+            '3 years ago, myb it was the first time i celebrate my birthday with my family...',
     },
     {
         path: './img/picmyb2.jpg',
